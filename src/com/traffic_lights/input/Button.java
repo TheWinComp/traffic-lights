@@ -1,7 +1,7 @@
 package com.traffic_lights.input;
 
 /**
- * Interface of a button used by input components and provied by user components.
+ * Interface of a button used by input components and provided by user components.
  *
  * @author Andr&eacute; Bauer
  */

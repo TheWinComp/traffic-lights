@@ -10,7 +10,7 @@ public interface PedestrianInput {
     /**
      * Checks whether the input is set, e.g. the button has been pressed since the input was resumed.
      *
-     * @return true iff the input is set since it was resumed.
+     * @return true if the input is set since it was resumed.
      */
     boolean isSet();
 

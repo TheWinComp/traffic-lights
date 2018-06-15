@@ -5,7 +5,7 @@ import com.traffic_lights.input.Button;
 import java.util.Random;
 
 /**
- * Simulations a Pedestrian that pushes a button by chance between zero and twenty seconds.
+ * Simulates a pedestrian that pushes a button by chance between zero and twenty seconds.
  *
  * @author Andr&eacute; Bauer
  */
